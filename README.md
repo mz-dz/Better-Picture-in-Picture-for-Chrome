@@ -56,6 +56,9 @@ To update the extension in the future, you will need to:
 2.  Remove the old extension folder from Chrome.
 3.  "Load unpacked" the new folder.````
 
+### bug report
+Feedback & discussion [GitHub discussion](https://github.com/mz-dz/Better-Picture-in-Picture-for-Chrome/discussions).
+
 ### Step 4: Get a Link to Share
 
 Now you are ready to share it! The URL in your browser's address bar for your GitHub repository is the link you give to people.
