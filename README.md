@@ -1,6 +1,6 @@
 # Custom Picture-in-Picture for Chrome
 
-This is a simple Chrome extension that adds a "Open in Custom PiP" option to the right-click context menu on web videos. It opens a Picture-in-Picture window with custom controls to seek forward, backward, and play/pause.
+This is a simple Chrome extension that adds a "Open in better PiP" option to the right-click context menu on web videos. It opens a Picture-in-Picture window with custom controls to seek forward, backward, and play/pause.
 
 <img width="1366" height="561" alt="image" src="https://github.com/user-attachments/assets/d1c1634b-86b9-48db-9e27-0d39478c551d" />
 
