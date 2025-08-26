@@ -31,7 +31,8 @@ Since this extension is not on the Chrome Web Store, you need to install it manu
     *   Navigate to the extensions page by typing `chrome://extensions` in your address bar and pressing Enter.
     *   In the top-right corner, turn on **"Developer mode"**.
 
-    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bfaad58f-093c-4e1d-817d-81cda7f7ff2c" />
+    <img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/bf7d205a-0739-408c-bb90-a2316c265fe7" />
+
 
 
     *   Three new buttons will appear. Click on **"Load unpacked"**.
