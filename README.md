@@ -16,7 +16,8 @@ Since this extension is not on the Chrome Web Store, you need to install it manu
     *   Click the green **`< > Code`** button on this repository's main page.
     *   Click **"Download ZIP"**.
 
-    ![Download ZIP screenshot](https://i.imgur.com/34K4G2z.png)
+<img width="1366" height="609" alt="image" src="https://github.com/user-attachments/assets/a6379edc-d4d6-47d7-84c6-292344d754ef" />
+
 
 2.  **Unzip the File**
     *   Find the downloaded `.zip` file on your computer.
