@@ -1,2 +1,52 @@
-# Better-Picture-in-Picture-for-Chrome
+# Custom Picture-in-Picture for Chrome
+
 This is a simple Chrome extension that adds a "Open in Custom PiP" option to the right-click context menu on web videos. It opens a Picture-in-Picture window with custom controls to seek forward, backward, and play/pause.
+
+![Screenshot of the extension in action](URL_TO_YOUR_SCREENSHOT_HERE) 
+*(Tip: Take a screenshot, upload it to your repository, and replace the URL above)*
+
+---
+
+## Installation Instructions
+
+Since this extension is not on the Chrome Web Store, you need to install it manually. It's easy and only takes a minute!
+
+1.  **Download the Code**
+    *   Click the green **`< > Code`** button on this repository's main page.
+    *   Click **"Download ZIP"**.
+
+    ![Download ZIP screenshot](https://i.imgur.com/34K4G2z.png)
+
+2.  **Unzip the File**
+    *   Find the downloaded `.zip` file on your computer.
+    *   Unzip or extract it into a folder. You can name the folder `Custom PiP Extension`.
+    *   **Important:** Place this folder somewhere permanent (like your Documents folder), because Chrome needs to be able to find it. **Do not delete this folder after installation!**
+
+3.  **Install in Chrome**
+    *   Open Google Chrome.
+    *   Navigate to the extensions page by typing `chrome://extensions` in your address bar and pressing Enter.
+    *   In the top-right corner, turn on **"Developer mode"**.
+
+    ![Developer mode screenshot](https://i.imgur.com/fSo8j6S.png)
+
+    *   Three new buttons will appear. Click on **"Load unpacked"**.
+    *   A file browser will open. Navigate to and select the folder you just unzipped (the one containing `manifest.json`).
+
+4.  **Done!**
+    *   The "Custom Picture-in-Picture" extension will now appear in your list of extensions.
+    *   You can now go to a site like YouTube, right-click on a video, and you will see the "Open in Custom PiP" option!
+
+---
+
+### How to Update
+
+To update the extension in the future, you will need to:
+1.  Download the new ZIP file from GitHub.
+2.  Remove the old extension folder from Chrome.
+3.  "Load unpacked" the new folder.````
+
+### Step 4: Get a Link to Share
+
+Now you are ready to share it! The URL in your browser's address bar for your GitHub repository is the link you give to people.
+
+When people visit that link, they will see your code and the detailed `README.md` file with all the installation instructions. You have successfully published your extension for free
