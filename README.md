@@ -23,20 +23,26 @@ Since this extension is not on the Chrome Web Store, you need to install it manu
     *   Find the downloaded `.zip` file on your computer.
     *   Unzip or extract it into a folder. You can name the folder `Custom PiP Extension`.
     *   **Important:** Place this folder somewhere permanent (like your Documents folder), because Chrome needs to be able to find it. **Do not delete this folder after installation!**
+    *   
+<img width="334" height="497" alt="image" src="https://github.com/user-attachments/assets/c9756ecd-8f91-4585-85e0-a4fdc3316ff5" />
 
 3.  **Install in Chrome**
     *   Open Google Chrome.
     *   Navigate to the extensions page by typing `chrome://extensions` in your address bar and pressing Enter.
     *   In the top-right corner, turn on **"Developer mode"**.
 
-    ![Developer mode screenshot](https://i.imgur.com/fSo8j6S.png)
+    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bfaad58f-093c-4e1d-817d-81cda7f7ff2c" />
+
 
     *   Three new buttons will appear. Click on **"Load unpacked"**.
-    *   A file browser will open. Navigate to and select the folder you just unzipped (the one containing `manifest.json`).
+    *   A file browser will open. Navigate to and select the folder you just unzipped.
+      <img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/5dc828e2-9eb8-4ccd-80ce-d7f60a77a13d" />
+      <img width="666" height="475" alt="image" src="https://github.com/user-attachments/assets/7fc07802-7309-434c-9c67-ca7d6d6a950c" />
+
 
 4.  **Done!**
     *   The "Custom Picture-in-Picture" extension will now appear in your list of extensions.
-    *   You can now go to a site like YouTube, right-click on a video, and you will see the "Open in Custom PiP" option!
+    *   You can now go to a site like YouTube, right-click on a video, and you will see the "Open in better PiP" option!
 
 ---
 
