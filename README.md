@@ -6,6 +6,8 @@ This is a simple Chrome extension that adds a "Open in better PiP" option to the
 
 *(Tip: Take a screenshot, upload it to your repository, and replace the URL above)*
 
+![GitHub stars](https://img.shields.io/github/stars/mz-dz/Better-Picture-in-Picture-for-Chrome?style=social)
+
 ---
 
 ## Installation Instructions
